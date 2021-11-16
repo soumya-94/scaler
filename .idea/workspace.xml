@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eddebe7-2df1-4610-abed-e58a73fe2fa4" name="Default Changelist" comment="" />
+    <list default="true" id="6eddebe7-2df1-4610-abed-e58a73fe2fa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BuyingShowTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClosestColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Google2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PathsToAGoal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sisu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays/KadaneAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/KadaneAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hashing/EqualSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hashing/EqualSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AddBinaryStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AddBinaryStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/AddOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/AddOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/AntiDiagonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/AntiDiagonal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/EqualityTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/EqualityTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/FirstMissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/FirstMissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/GenerateSpiralMatrixSqaures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/GenerateSpiralMatrixSqaures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/GoodPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/GoodPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/KadaneAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/KadaneAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MaxAbsDiff.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MaxAbsDiff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MaxChunksToSortArrayOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MaxChunksToSortArrayOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MaxChunksToSortArrayTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MaxChunksToSortArrayTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MergeInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MergeInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MultipleRotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MultipleRotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/MultiplyPrevNext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/MultiplyPrevNext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/OddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/OddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/PrimalPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/PrimalPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/QuerySumSubmatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/QuerySumSubmatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/RepeatingAndMissing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/RepeatingAndMissing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/Rotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/Rotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/RowOfMaxOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/RowOfMaxOnes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/SearchSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/SearchSortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/SumSubmatrices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/SumSubmatrices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/TrappingRain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/TrappingRain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/WaveArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/WaveArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AtLeastTwoGreaterElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AtLeastTwoGreaterElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DynamicProgramming/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DynamicProgramming/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DynamicProgramming/MaxSumWOAdjacent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DynamicProgramming/MaxSumWOAdjacent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DynamicProgramming/MinSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DynamicProgramming/MinSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DynamicProgramming/Party.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DynamicProgramming/Party.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DynamicProgramming/Stairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DynamicProgramming/Stairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HammingDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HammingDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/CommonElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/CommonElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/CountPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/CountPermutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/EqualSumPairs$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/EqualSumPairs$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/EqualSumPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/EqualSumPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/FirstNonRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/FirstNonRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/GivenSumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/GivenSumSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/LongestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/PairsWithGivenXOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/PairsWithGivenXOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/PrintAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/PrintAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/SubarrayEqual1s0s.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/SubarrayEqual1s0s.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/TwoSumCorrected$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/TwoSumCorrected$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/TwoSumCorrected.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/TwoSumCorrected.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hashing/ZeroSumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hashing/ZeroSumSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterestingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterestingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IsAlpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IsAlpha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ScalarAcademyQuestions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MinXor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MinXor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MinimumPicks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MinimumPicks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OnlySingleElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OnlySingleElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OnlySingleElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OnlySingleElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PatternPrinting1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PatternPrinting1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ReverseBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReverseBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SetBitsInRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SetBitsInRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmallerAndGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmallerAndGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StrangeEquality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StrangeEquality.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TwoSingleElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TwoSingleElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/setBitsInInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setBitsInInteger.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,23 +100,46 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1n4UhSTiHcLF6AUMpZiRNBRiNmj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.CountPermutations">
-    <configuration name="CountPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.CountPermutations" />
-      <module name="ScalarAcademyQuestions" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BuyingShowTickets">
+    <configuration name="AllSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllSubsets" />
+      <module name="scaler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildMaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.BuildMaxHeap" />
+      <module name="scaler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -38,12 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GivenSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.GivenSumSubarray" />
-      <module name="ScalarAcademyQuestions" />
+    <configuration name="BuyingShowTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuyingShowTickets" />
+      <module name="scaler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Google" />
+      <module name="scaler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KadaneAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.KadaneAlgorithm" />
+      <module name="scaler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hashing.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,52 +174,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.LongestConsecutiveSequence" />
-      <module name="ScalarAcademyQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubarrayEqual1s0s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.SubarrayEqual1s0s" />
-      <module name="ScalarAcademyQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZeroSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing.ZeroSumSubarray" />
-      <module name="ScalarAcademyQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.AllSubsets" />
+      <item itemvalue="Application.BuildMaxHeap" />
+      <item itemvalue="Application.Google" />
+      <item itemvalue="Application.KadaneAlgorithm" />
+      <item itemvalue="Application.BuyingShowTickets" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountPermutations" />
-        <item itemvalue="Application.SubarrayEqual1s0s" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.GivenSumSubarray" />
-        <item itemvalue="Application.ZeroSumSubarray" />
+        <item itemvalue="Application.BuyingShowTickets" />
+        <item itemvalue="Application.Google" />
+        <item itemvalue="Application.BuildMaxHeap" />
+        <item itemvalue="Application.KadaneAlgorithm" />
+        <item itemvalue="Application.AllSubsets" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +203,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,59 +217,19 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1624546804962">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state x="533" y="139" key="#com.intellij.ide.util.MemberChooser/0.25.1440.804@0.25.1440.804" timestamp="1624546804962" />
-    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624536991563">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state x="458" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.804@0.25.1440.804" timestamp="1624536991563" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1626768250872">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1624135296352" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1626768250872" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1626768250871">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1624135296351" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1626768250871" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1626768250870">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1624135296350" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1626768250870" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1626768250871">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1624135296351" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1626768250871" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom" timestamp="1624134829987">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.25.1440.801@0.25.1440.801" timestamp="1624134829987" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center" timestamp="1624134829986">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.25.1440.801@0.25.1440.801" timestamp="1624134829986" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left" timestamp="1624134829986">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.25.1440.801@0.25.1440.801" timestamp="1624134829986" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right" timestamp="1624134829987">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.25.1440.801@0.25.1440.801" timestamp="1624134829987" />
-    <state x="397" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1627658253684">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1624350454410" />
-    <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.25.1440.804@0.25.1440.804" timestamp="1627658253684" />
-    <state x="385" y="153" width="670" height="673" key="search.everywhere.popup" timestamp="1619362610459">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state x="385" y="153" width="670" height="673" key="search.everywhere.popup/0.25.1440.801@0.25.1440.801" timestamp="1619362610459" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

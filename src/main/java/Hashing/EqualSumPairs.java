@@ -6,7 +6,7 @@ where P,Q,R & S are integers values in the array
 If there are more than one solutions, then return the tuple of values which are lexicographical smallest.
  */
 
-import com.sun.tools.javac.util.Pair;
+//import com.sun.tools.javac.util.Pair;
 
 import java.util.ArrayList;
 import java.util.Arrays;

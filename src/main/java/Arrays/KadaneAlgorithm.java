@@ -27,7 +27,7 @@ public class KadaneAlgorithm {
 
     public static void main (String ar[]) {
 
-        int[] A = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+        int[] A = {1};
 
         System.out.println(maxSubArray(A));
 
